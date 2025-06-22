@@ -57,6 +57,6 @@ button:hover {
     color: #d8000c;
     background-color: #ffbaba;
     border-radius: 4px;
-    display: none;
+    display: block;
     /* Initially hide the feedback div */
 }
